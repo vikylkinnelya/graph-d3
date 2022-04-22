@@ -1,0 +1,20 @@
+{
+    "interval-size": 5,
+    "minimum": 1.8,
+    "frequencies": [
+        8,
+        15,
+        4,
+        7,
+        9,
+        10,
+        25,
+        67,
+        46,
+        1
+    ],
+    "quantil25": 4.5,
+    "quantil50": 7.2,
+    "quantil75": 8.1,
+    "mean": 7.4
+}
