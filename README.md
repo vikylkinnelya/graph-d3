@@ -1,13 +1,7 @@
 <img src='./img.jpg' width="100%">
 ### Clone repo
-```
-gh repo clone vikylkinnelya/histogram-d3
-```
+```gh repo clone vikylkinnelya/histogram-d3```
 ### Install dependensies
-```
-npm install
-```
+```npm install```
 ### Run the app
-```
-node src/api.js
-```
+```node src/api.js```
