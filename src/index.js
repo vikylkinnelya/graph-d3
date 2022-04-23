@@ -76,4 +76,4 @@ const createHistogram = (dataSet => {
 })
 
 
-window.onload = createHistogram(await getData())
+window.onload = getData().then(res => createHistogram(res))
